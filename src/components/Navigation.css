@@ -17,3 +17,7 @@
     list-style: none;
     padding-top: 15px;
 }
+
+.nav-links li a {
+    color: #fff;
+}
